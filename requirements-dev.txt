@@ -1,0 +1,7 @@
+# Development dependencies
+yt-dlp>=2024.1.0
+pyinstaller>=5.13.2  # For creating Windows .exe
+pytest>=7.4.0
+
+# Optional for GUI enhancements
+pillow>=10.0.0  # For image support if needed
